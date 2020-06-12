@@ -1,4 +1,9 @@
 node_modules/
-logs/
-build
 .DS_Store
+*.log
+.idea
+haters/
+variables.env
+variables.env.now
+
+
